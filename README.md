@@ -1,9 +1,9 @@
 ### Hi there 👋
-=====
+---
 I am a student in computer development, more specifically in computer vision and artificial intelligence 😇
 
 ## Where to find me 🌎:
-=====
+---
 * You can see my projects on [my website](https://guillaumedufau.fr) 💻
 * Find my career updates on [LinkedIn](https://www.linkedin.com/in/guillaume-dufau-491240182/) 💼
 
