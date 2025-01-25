@@ -1,22 +1,6 @@
-## Hi there 👋
-I am a student in computer development, more specifically in computer vision and artificial intelligence 😇
+## Hi there 👋  
+I am a 3D developer specializing in lidar point cloud data processing. My work focuses on implementing efficient solutions using C++ and Python, leveraging machine learning and deep learning algorithms to extract meaningful insights from complex data. 🚀
 
-## Where to find me 🌎:
-* You can see my projects on [my website](https://guillaumedufau.fr) 💻
-* Find my career updates on [LinkedIn](https://www.linkedin.com/in/guillaume-dufau-491240182/) 💼
-
-
-<!--
-**GuigzLab/GuigzLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me 🌍:
+* Discover my projects on [my website](https://guigzlab.github.io/) 💻  
+* Follow my professional journey on [LinkedIn](https://www.linkedin.com/in/guillaumedufau/) 💼
